@@ -1,0 +1,5 @@
+E:\study\МАГИСТРАТУРА\ЦОС\lab3\DFT\Core\bin\Debug\Core.dll
+E:\study\МАГИСТРАТУРА\ЦОС\lab3\DFT\Core\bin\Debug\Core.pdb
+E:\study\МАГИСТРАТУРА\ЦОС\lab3\DFT\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\study\МАГИСТРАТУРА\ЦОС\lab3\DFT\Core\obj\Debug\Core.dll
+E:\study\МАГИСТРАТУРА\ЦОС\lab3\DFT\Core\obj\Debug\Core.pdb
